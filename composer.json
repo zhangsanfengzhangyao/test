@@ -4,8 +4,10 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zhangsanfengzhangyao\\Test\\": "src/"
+            "Zhangsanfengzhangyao\\Test\\": "src/",
+            "Zhangsanfengzhangyao\\": "sms/"
         }
+
     },
     "authors": [
         {
